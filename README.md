@@ -9,7 +9,7 @@ Course material for ENEL 645 - Data Mining &amp; Machine Learning
 - **Tutorial 02** [Introduction to NumPy](JNotebooks/tutorial02-numpy.ipynb)
 - **Tutorial 03**: [Overfitting and Regularization](JNotebooks/tutorial03-overfitting_regularization.ipynb)
 - **Tutorial 04** 
-   - (a) [Logistic Regression with NumPy - classification](JNotebooks/tutorial04a_logistic_regression_numpy)
+   - (a) [Logistic Regression with NumPy - classification](JNotebooks/tutorial04a_logistic_regression_numpy.ipynb)
    - (b) [Logistic Regression Keras - classification](JNotebooks/tutorial04b_logistic_regression_keras.ipynb)
    - (c) [Logistic Regression Keras with Dynamic Decision Boundary - classification](JNotebooks/tutorial04c_logistic_regression_keras_decision_boundary.ipynb)
 - **Tutorial 05**: [Multi-layer Fully Connected Neural Network - classification](JNotebooks/tutorial05_multi_layer_neural_network.ipynb)
