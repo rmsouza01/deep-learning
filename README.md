@@ -1,17 +1,13 @@
-# ENEL645
-Course material for ENEL 645 - Data Mining &amp; Machine Learning 
+# ENEL645 
 
-## Turorials
+This course is a hands-on course on Deep Learning (DL), which is a significant topic within machine learning.   This course will give an overview of the historical context that allowed DL to flourish. It will cover different types of neural networks, how to train, and deploy them in different problems, such as image classification, image segmentation, and signal denoising. The neural network types that will be covered are fully connected networks, convolutional neural networks, fully convolutional neural networks, auto-encoders, recurrent neural networks, and others. Special emphasis will be given to popular network architectures like U-nets, ResNets, Inception, and VGG. The course will cover how to fine-tune pre-trained models to achieve state-of-the-art results in relevant applications. This course will also give a brief introduction to generative models, self-supervised learning and an overview of current new trends in DL.
 
+**The repository will be updated as the course progresses. We will be using Python 3 with TensorFlow.
+## Tutorials
 
-- **Tutorial 00**: [Installing a Virtual Environment](JNotebooks/install_venv.ipynb) - Not available. Under construction.
+### Week 01  
 - **Tutorial 01**: [Introduction to Python](JNotebooks/tutorial01-python.ipynb)
 - **Tutorial 02** [Introduction to NumPy](JNotebooks/tutorial02-numpy.ipynb)
 - **Tutorial 03**: [Overfitting and Regularization](JNotebooks/tutorial03-overfitting_regularization.ipynb)
-- **Tutorial 04** 
-   - (a) [Logistic Regression with NumPy - classification](JNotebooks/tutorial04a_logistic_regression_numpy.ipynb)
-   - (b) [Logistic Regression Keras - classification](JNotebooks/tutorial04b_logistic_regression_keras.ipynb)
-   - (c) [Logistic Regression Keras with Dynamic Decision Boundary - classification](JNotebooks/tutorial04c_logistic_regression_keras_decision_boundary.ipynb)
-- **Tutorial 05**: [Multi-layer Fully Connected Neural Network - classification](JNotebooks/tutorial05_multi_layer_neural_network.ipynb)
-- **Tutorial 06**: [Convolutional Neural Network - classification](JNotebooks/tutorial06_magnetic_field_scanner_vendor_classification.ipynb)
-- **Tutorial 07**: [Fully Convolutional Neural Network - regression](JNotebooks/tutorial07_fully_convolutional_neural_network.ipynb)
+
+## Assignments
