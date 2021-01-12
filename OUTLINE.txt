@@ -1,0 +1,38 @@
+# ENEL 645 - Course Outline - Winter 2021
+
+## Week 01 (Jan 10-16, 2021) Python Bootcamp and basic machine learning concepts 
+- Introduction to Python 3 and Numerical Python (NumPy);
+- Avoiding loops in Python to write efficient code;
+- Historical context from machine learning to deep learning.;
+- Basic machine learning concepts
+	- Supervised and unsupervised learning;
+	- Classification and regression;
+	- Binary, multi-class, and multi-label classification;
+	- Experimental design;
+	- Overfitting and regularization through a polynomial fitting example; 
+
+## Week 02 (Jan 17-23, 2021) Fully Connected Neural Networks 
+
+## Week 03 (Jan 24 – Jan 30, 2021) Consolidating the knowledge
+
+## Week 04 (Jan 31 – Feb 6, 2021) Convolutional Neural Networks (CNNs) and model fine-tuning 
+
+## Week 05 (Feb 7 – Feb 13, 2021) Fully Convolutional Neural Networks 
+
+## Week 06 (Feb 14 – Feb 20, 2021) Consolidating the knowledge
+
+## Week 07 (Feb 21 – Feb 27, 2021) Recurrent Neural Networks 
+
+## Week 08 (Feb 28 - Mar 6, 2021) Term break (i.e., reading week)
+
+## Week 09 (Mar 7 - Mar 13, 2021) Generative Adversarial Networks 
+
+## Week 10 (Mar 14 – Mar 20, 2021) Consolidating the knowledge 
+
+## Week 11 (Mar 21 – Mar 27, 2021) Self-supervised learning
+
+## Week 12 (Mar 28 - Apr 3 , 2021) Overview of recent trends in deep learning
+
+## Week 13 (Apr 4 – Apr 10, 2021) Consolidating the knowledge
+
+## Week 14 (Apr 11 – Apr 15, 2021) Teams final project reports and presentations are due
