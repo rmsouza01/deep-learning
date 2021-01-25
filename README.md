@@ -14,5 +14,6 @@ This course is a hands-on course on Deep Learning (DL), which is a significant t
 - **Tutorial 04 (GOOGLE COLAB)**: [Fully Connected Neural Networks - 2D Synthetic Example ](JNotebooks/tutorial04_fully_connected_neural_network_2D_synthetic_example_colab.ipynb)
 - **Tutorial 05**: [Different Approaches to Defining Neural Networks with Keras and TensorFlow](JNotebooks/tutorial05_different_approaches_to_define_neural_networks_keras.ipynb)
 - **Tutorial 06**: [TensorBoard](JNotebooks/tutorial06_tensorboard.ipynb)
+- **Tutorial 07**:[Softmax, One Hot Encoding and Loss Functions](JNotebooks/tutorial07_softmax_one_hot_encoding_loss_functions.ipynb)
 
 ## Assignments
