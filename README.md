@@ -15,5 +15,6 @@ This course is a hands-on course on Deep Learning (DL), which is a significant t
 - **Tutorial 05**: [Different Approaches to Defining Neural Networks with Keras and TensorFlow](JNotebooks/tutorial05_different_approaches_to_define_neural_networks_keras.ipynb)
 - **Tutorial 06**: [TensorBoard](JNotebooks/tutorial06_tensorboard.ipynb)
 - **Tutorial 07**:[Softmax, One Hot Encoding and Loss Functions](JNotebooks/tutorial07_softmax_one_hot_encoding_loss_functions.ipynb)
+- **Tutorial 08**:[Step-by-step MNIST Digits Classification - Fully Connected Neural Networks](JNotebooks/tutorial08_step_by_step_MNIST_digits_classification.ipynb)
 
 ## Assignments
