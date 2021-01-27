@@ -10,9 +10,13 @@ This course is a hands-on course on Deep Learning (DL), which is a significant t
 - **Tutorial 01**: [Introduction to Python](JNotebooks/tutorial01-python.ipynb)
 - **Tutorial 02** [Introduction to NumPy](JNotebooks/tutorial02-numpy.ipynb)
 - **Tutorial 03**: [Model Selection, Overfitting and Regularization](JNotebooks/tutorial03-overfitting_regularization.ipynb)
+
+### Week 02  
 - **Tutorial 04** [Fully Connected Neural Networks - 2D Synthetic Example ](JNotebooks/tutorial04_fully_connected_neural_network_2D_synthetic_example.ipynb)
 - **Tutorial 04 (GOOGLE COLAB)**: [Fully Connected Neural Networks - 2D Synthetic Example ](JNotebooks/tutorial04_fully_connected_neural_network_2D_synthetic_example_colab.ipynb)
 - **Tutorial 05**: [Different Approaches to Defining Neural Networks with Keras and TensorFlow](JNotebooks/tutorial05_different_approaches_to_define_neural_networks_keras.ipynb)
+
+### Week 03  
 - **Tutorial 06**: [TensorBoard](JNotebooks/tutorial06_tensorboard.ipynb)
 - **Tutorial 07**:[Softmax, One Hot Encoding and Loss Functions](JNotebooks/tutorial07_softmax_one_hot_encoding_loss_functions.ipynb)
 - **Tutorial 08**:[Step-by-step MNIST Digits Classification - Fully Connected Neural Networks](JNotebooks/tutorial08_step_by_step_MNIST_digits_classification.ipynb)
