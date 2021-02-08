@@ -22,8 +22,8 @@ This course is a hands-on course on Deep Learning (DL), which is a significant t
 - **Tutorial 08**:[Step-by-step MNIST Digits Classification - Fully Connected Neural Networks](JNotebooks/tutorial08_step_by_step_MNIST_digits_classification.ipynb)
 
 ### Week 04
-- **Tutorial 09** [Fully Connected Neural Networks Revisited - Destroying Local Correlations, what happens?](tutorial09_fully_connected_neural_networks_revisited.ipynb)
-- **Tutorial 10** [Step-by-step MNIST Digits Classification - Convolutional Neural Networks](tutorial10_step_by_step_MNIST_digits_classification_cnn.ipynb)
-- **Tutorial 11** [Transfer Learning](tutorial11_transfer_learning_imagenet.ipynb)
+- **Tutorial 09** [Fully Connected Neural Networks Revisited - Destroying Local Correlations, what happens?](JNotebooks/tutorial09_fully_connected_neural_networks_revisited.ipynb)
+- **Tutorial 10** [Step-by-step MNIST Digits Classification - Convolutional Neural Networks](JNotebooks/tutorial10_step_by_step_MNIST_digits_classification_cnn.ipynb)
+- **Tutorial 11** [Transfer Learning](JNotebooks/tutorial11_transfer_learning_imagenet.ipynb)
 
 ## Assignments
