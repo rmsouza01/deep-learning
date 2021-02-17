@@ -27,3 +27,5 @@ This course is a hands-on course on Deep Learning (DL), which is a significant t
 - **Tutorial 11** [Transfer Learning](JNotebooks/tutorial11_transfer_learning_imagenet.ipynb)
 
 ## Assignments
+
+[Assignment #02](Assignments/assignment02.ipynb)
