@@ -26,6 +26,16 @@ This course is a hands-on course on Deep Learning (DL), which is a significant t
 - **Tutorial 10** [Step-by-step MNIST Digits Classification - Convolutional Neural Networks](JNotebooks/tutorial10_step_by_step_MNIST_digits_classification_cnn.ipynb)
 - **Tutorial 11** [Transfer Learning](JNotebooks/tutorial11_transfer_learning_imagenet.ipynb)
 
+### Week 05
+- **Tutorial 12** [Auto-encoder MNIST](JNotebooks/tutorial12_auto_encoder_mnist.ipynb)
+
+
+### Week 05
+- Reading Week
+
+### Week 06
+- **Tutorial 13** [U-net for Image Restoration](JNotebooks/tutorial13_unet_jpeg_restoration.ipynb)
+
 ## Assignments
 
 [Assignment #02](Assignments/assignment02.ipynb)
