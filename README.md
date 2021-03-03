@@ -30,12 +30,17 @@ This course is a hands-on course on Deep Learning (DL), which is a significant t
 - **Tutorial 12** [Auto-encoder MNIST](JNotebooks/tutorial12_auto_encoder_mnist.ipynb)
 
 
-### Week 05
+### Week 06
 - Reading Week
 
-### Week 06
+### Week 07
 - **Tutorial 13** [U-net for Image Restoration](JNotebooks/tutorial13_unet_jpeg_restoration.ipynb)
+- **Tutotial 14** Using the cluster with Docker and/or virtualenv. The files are in the Cluster-example folder.
+
+### Week 08
+- **Tutorial 15** Using the TALC cluster. The files for this tutorial are inside TALC/Example01.
 
 ## Assignments
 
 [Assignment #02](Assignments/assignment02.ipynb)
+[Assignment #03](Assignments/assignment03.ipynb)
