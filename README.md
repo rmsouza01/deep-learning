@@ -42,5 +42,6 @@ This course is a hands-on course on Deep Learning (DL), which is a significant t
 
 ## Assignments
 
-[Assignment #02](Assignments/assignment02.ipynb)
-[Assignment #03](Assignments/assignment03.ipynb)
+- [Assignment #02](Assignments/assignment02.ipynb)
+- [Assignment #03](Assignments/assignment03.ipynb)
+- [Assignment #04](Assignments/assignment04.ipynb)
