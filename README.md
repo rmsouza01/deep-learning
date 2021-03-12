@@ -40,6 +40,11 @@ This course is a hands-on course on Deep Learning (DL), which is a significant t
 ### Week 08
 - **Tutorial 15** Using the TALC cluster. The files for this tutorial are inside TALC/Example01.
 
+## Week 09
+- **Tutorial 16** [Recurrent Neural Networks](JNotebooks/tutorial14_recurrent_neural_networks.ipynb)
+- **Tutorial 17** [Generative Adversarial Neural Networks](JNotebooks/tutorial15_generative_adversarial_networks.ipynb)
+
+
 ## Assignments
 
 - [Assignment #02](Assignments/assignment02.ipynb)
