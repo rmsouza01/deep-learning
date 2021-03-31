@@ -44,6 +44,10 @@ This course is a hands-on course on Deep Learning (DL), which is a significant t
 - **Tutorial 16** [Recurrent Neural Networks](JNotebooks/tutorial14_recurrent_neural_networks.ipynb)
 - **Tutorial 17** [Generative Adversarial Neural Networks](JNotebooks/tutorial15_generative_adversarial_networks.ipynb)
 
+## Week 10
+
+## Week 11
+- **Tutorial 17** [Self-Supervised Learning](JNotebooks/tutorial17_self_supervised_learning_CIFAR10_cnn.ipynb)
 
 ## Assignments
 
