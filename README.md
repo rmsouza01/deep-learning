@@ -20,4 +20,6 @@ evolutionary computing, Bayesian network. Applications: multi-media, text and we
 - **Tutorial 05**: [Different Approaches to Define Neural Networks](JNotebooks/tutorial05_different_approaches_to_define_neural_networks_keras.ipynb)
 
 ## Assignments
+- **Assignment 01 - option 01**: [Garbage Classification System](Rubric/assignment01-option01-system-design-assignment.pdf)
+- **Assignment 01 - option 02**: [Python/NumPy Programming](Assignments/assignment01-python-numpy-programming.ipynb)
 
