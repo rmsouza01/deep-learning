@@ -19,10 +19,10 @@ evolutionary computing, Bayesian network. Applications: multi-media, text and we
 
 ### Week 03
 - **Tutorial 04**: [Fully Connected Neural Networks - synthetic](JNotebooks/tutorial04_fully_connected_neural_network_2D_synthetic_example.ipynb)
-- **Tutorial 05**: [Fully Connected Neural Networks - MNIST](tutorial08_step_by_step_MNIST_digits_classification.ipynb)
+- **Tutorial 05**: [Fully Connected Neural Networks - MNIST](JNotebooks/tutorial08_step_by_step_MNIST_digits_classification.ipynb)
 - **Optional:**
-	- **Tutorial 06**: [Softmax, one-hot-encoding, loss functions](tutorial07_softmax_one_hot_encoding_loss_functions.ipynb) 
-	- **Tutorial 07**: [Fully Connected Neural Networks - revisited](tutorial09_fully_connected_neural_networks_revisited.ipynb)
+	- **Tutorial 06**: [Softmax, one-hot-encoding, loss functions](JNotebooks/tutorial07_softmax_one_hot_encoding_loss_functions.ipynb) 
+	- **Tutorial 07**: [Fully Connected Neural Networks - revisited](JNotebooks/tutorial09_fully_connected_neural_networks_revisited.ipynb)
 
 
 ## Assignments
