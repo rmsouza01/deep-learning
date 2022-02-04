@@ -25,6 +25,11 @@ evolutionary computing, Bayesian network. Applications: multi-media, text and we
 	- **Tutorial 07**: [Fully Connected Neural Networks - revisited](JNotebooks/tutorial09_fully_connected_neural_networks_revisited.ipynb)
 
 
+### Week 04
+- **Tutorial 08**: [CNNs - MNIST](JNotebooks/tutorial10_step_by_step_MNIST_digits_classification_cnn.ipynb)
+- **Tutorial 09**: [CNNs - Gender Classification](JNotebooks/gender_classification.ipynb)
+
+
 ## Assignments
 - **Assignment 01 - option 01**: [Garbage Classification System](Rubric/assignment01-option01-system-design-assignment.pdf)
 - **Assignment 01 - option 02**: [Python/NumPy Programming](Assignments/assignment01-python-numpy-programming.ipynb)
