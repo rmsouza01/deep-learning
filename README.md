@@ -29,6 +29,9 @@ evolutionary computing, Bayesian network. Applications: multi-media, text and we
 - **Tutorial 08**: [CNNs - MNIST](JNotebooks/tutorial10_step_by_step_MNIST_digits_classification_cnn.ipynb)
 - **Tutorial 09**: [CNNs - Gender Classification](JNotebooks/gender_classification.ipynb)
 
+### Week 05
+- **Tutorial 10**: [Transfer Learning - Garbage Classification](JNotebooks/transfer_learning_imagenet.ipynb)
+
 
 ## Assignments
 - **Assignment 01 - option 01**: [Garbage Classification System](Rubric/assignment01-option01-system-design-assignment.pdf)
