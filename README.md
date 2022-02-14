@@ -33,6 +33,10 @@ evolutionary computing, Bayesian network. Applications: multi-media, text and we
 - **Tutorial 10**: [Transfer Learning - Garbage Classification](JNotebooks/transfer_learning_imagenet.ipynb)
 
 
+### Week 06
+- **Tutorial 11**: [Fully COnvolutional Neural Network - Denoising](JNotebooks/denoising-1d.ipynb)
+
+
 ## Assignments
 - **Assignment 01 - option 01**: [Garbage Classification System](Rubric/assignment01-option01-system-design-assignment.pdf)
 - **Assignment 01 - option 02**: [Python/NumPy Programming](Assignments/assignment01-python-numpy-programming.ipynb)
