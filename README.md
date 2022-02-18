@@ -34,7 +34,8 @@ evolutionary computing, Bayesian network. Applications: multi-media, text and we
 
 
 ### Week 06
-- **Tutorial 11**: [Fully COnvolutional Neural Network - Denoising](JNotebooks/denoising-1d.ipynb)
+- **Tutorial 11**: [Fully Convolutional Neural Network - Denoising](JNotebooks/denoising-1d.ipynb)
+- **Tutorial 12**: [Medical Image Segmentation - UNET](https://github.com/rmsouza01/ENEL645/tree/master/SLURM/unet-segmentation)
 
 
 ## Assignments
