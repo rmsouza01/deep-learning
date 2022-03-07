@@ -37,6 +37,19 @@ evolutionary computing, Bayesian network. Applications: multi-media, text and we
 - **Tutorial 11**: [Fully Convolutional Neural Network - Denoising](JNotebooks/denoising-1d.ipynb)
 - **Tutorial 12**: [Medical Image Segmentation - UNET](https://github.com/rmsouza01/ENEL645/tree/master/SLURM/unet-segmentation)
 
+### Week 07
+- Reading week
+
+### Week 08
+- **Tutorial 13**: [AutoML](https://github.com/mklasby/automl_tutorial)
+
+### Week 09
+- **Tutorial 14**: [Alzheimer's Classification - Pitfalls whend esigning CNN models](JNotebooks/alzheimer_classificiation.ipynb)
+
+
+
+
+
 
 ## Assignments
 - **Assignment 01 - option 01**: [Garbage Classification System](Rubric/assignment01-option01-system-design-assignment.pdf)
