@@ -60,4 +60,4 @@ evolutionary computing, Bayesian network. Applications: multi-media, text and we
 - **Assignment 01 - option 01**: [Garbage Classification System](Rubric/assignment01-option01-system-design-assignment.pdf)
 - **Assignment 01 - option 02**: [Python/NumPy Programming](Assignments/assignment01-python-numpy-programming.ipynb)
 - **Assignment 02**: [Paper Reading](Rubric/assignment02_paper_reading.pdf)
-- **Assignment 03**: [Coding](Rubric/assignment03.ipynb)
+- **Assignment 03**: [Coding](Assignments/assignment03.ipynb)
