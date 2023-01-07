@@ -11,7 +11,17 @@ This repo is constantly being updated. Initially, we used TensorFlow as the deep
 
 
 ## ENEL 645
+
 ### Tutorials
 
+**Week 0**
+- [Python recap](./JNotebooks/tutorial01-python.ipynb)
+- [NumPy recap](./JNotebooks](tutorial02-numpy.ipynb)
+
 ## ENSF 619.02
+
 ### Tutorials
+
+**Week 0**
+- [Python recap](./JNotebooks/tutorial01-python.ipynb)
+- [NumPy recap](./JNotebooks](tutorial02-numpy.ipynb)
