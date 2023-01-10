@@ -19,7 +19,9 @@ For all teamwork assigments, including the final project, your team needs an add
 
 
 -[Assignment 01](./Rubric/ENEL645/Garbage-classification-assignment.pdf)
+
 -[Assignment 02](./Rubric/ENEL645/Tutorial-creation-assignment.pdf)
+
 -[Final Project](./Rubric/ENEL645/Final-project-description-rubric-ENEL645.pdf)
 
 Templates for final project:
@@ -98,7 +100,9 @@ Templates for final project:
 
 ### Assignments and Final Project
 -[Assignment 01](./Rubric/ENSF619/Paper-reading-assignment.pdf)
+
 -[Assignment 02](./Rubric/ENSF619/Tutorial-creation-assignment.pdf)
+
 -[Final Project](./Rubric/ENSF619/Final-project-description-rubric-ENSF619.pdf)
 
 Templates for final project:
