@@ -14,7 +14,18 @@ This repo is constantly being updated. Initially, we used TensorFlow as the deep
 
 ### Assignments and Final Project
 
-- coming soon...
+For all teamwork assigments, including the final project, your team needs an additional 1-page pdf document as described
+[here](./Rubric/Team-work-requirement.pdf).
+
+
+-[Assignment 01](./Rubric/ENEL645/Garbage-classification-assignment.pdf)
+-[Assignment 02](./Rubric/ENEL645/Tutorial-creation-assignment.pdf)
+-[Final Project](./Rubric/ENEL645/Final-project-description-rubric-ENEL645.pdf)
+
+Templates for final project:
+- [Overleaf](https://www.overleaf.com/project/61391a30b6ff02091bf5100b)
+- [MS Word](./final-project-template.docx)
+
 
 ### Lectures and Tutorials
 
@@ -85,8 +96,18 @@ This repo is constantly being updated. Initially, we used TensorFlow as the deep
 
 ## ENSF 619.02
 
-### Tutorials
+### Assignments and Final Project
+-[Assignment 01](./Rubric/ENSF619/Paper-reading-assignment.pdf)
+-[Assignment 02](./Rubric/ENSF619/Tutorial-creation-assignment.pdf)
+-[Final Project](./Rubric/ENSF619/Final-project-description-rubric-ENSF619.pdf)
 
+Templates for final project:
+- [Overleaf](https://www.overleaf.com/project/61391a30b6ff02091bf5100b)
+- [MS Word](./final-project-template.docx)
+
+
+
+### Lectures and Tutorials
 **Week 0**
 - [Python recap](./JNotebooks/tutorial01-python.ipynb)
 - [NumPy recap](./JNotebooks/tutorial02-numpy.ipynb)
