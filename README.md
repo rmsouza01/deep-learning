@@ -34,22 +34,23 @@ Templates for final project:
 **Week 0**
 - [Python recap](./JNotebooks/tutorial01-python.ipynb)
 - [NumPy recap](./JNotebooks/tutorial02-numpy.ipynb)
+- [L: Python Bootcamp](./PDFs/ENEL645/ENEL645_lecture03_python_bootcamp.pdf) 
+- [T: Avoid Loops](./JNotebooks/tutorial02_1_python_sumpy_programming_style.ipynb)
 
 **Week 01** (09-15 January)
 - [L: Course Overview](./PDFs/ENEL645/ENEL645_lecture01_course_overview.pdf)
 - [L: Fundamentals ML](./PDFs/ENEL645/ENEL645_lecture02_fundamentals_ml.pdf)
-- [L: Python Bootcamp](./PDFs/ENEL645/ENEL645_lecture03_python_bootcamp.pdf) 
-- [T: Avoid Loops](./JNotebooks/tutorial02_1_python_sumpy_programming_style.ipynb)
-
-**Week 02** (16-22 January)
 - [L: Overfitting and Regularization](./PDFs/ENEL645/ENEL645_lecture04_overfitting_regularization.pdf)
 - [T: Overfitting and Regularization](./JNotebooks/tutorial03-overfitting_regularization.ipynb) 
+
+**Week 02** (16-22 January)
 - [L: Deep Learning Intuition](./PDFs/ENEL645/ENEL645_lecture05_deep_learning_intuition.pdf)
 - [L: Data Normalization](./PDFs/ENEL645/ENEL645_lecture06_data_normalization.pdf)
 - [L: Fully Connected Neural Networks](./PDFs/ENEL645/ENEL645_lecture07_fully_connected_neural_networks.pdf)
+- [T: Fully Connected NN: 2D Synthetic Example](./JNotebooks/tutorial04_fully_connected_neural_network_2D_synthetic_example.ipynb)
+- [T: Fully Connected Neural Networks PyTorch](./JNotebooks/fully_connected_NN_mnist_pytorch.ipynb)
 
 **Week 03** (23-29 January)
-- [T: Fully Connected NN: 2D Synthetic Example](./JNotebooks/tutorial04_fully_connected_neural_network_2D_synthetic_example.ipynb)
 - [T: Different ways to define NNs](./JNotebooks/tutorial05_different_approaches_to_define_neural_networks_keras.ipynb)
 - [T: Fully Connected NN: Image Classification](./JNotebooks/tutorial08_step_by_step_MNIST_digits_classification.ipynb)
 - [L: Convolutional  Neural Networks](./PDFs/ENEL645/ENEL645_lecture08_convolutional_neural_networks.pdf)
