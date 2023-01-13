@@ -48,12 +48,12 @@ Templates for final project:
 - [L: Data Normalization](./PDFs/ENEL645/ENEL645_lecture06_data_normalization.pdf)
 - [L: Fully Connected Neural Networks](./PDFs/ENEL645/ENEL645_lecture07_fully_connected_neural_networks.pdf)
 - [T: Fully Connected NN: 2D Synthetic Example](./JNotebooks/tutorial04_fully_connected_neural_network_2D_synthetic_example.ipynb)
-- [T: Fully Connected Neural Networks PyTorch](./JNotebooks/fully_connected_NN_mnist_pytorch.ipynb)
+- [T: Fully Connected NN: Image Classification - PyTorch](./JNotebooks/fully_connected_NN_mnist_pytorch.ipynb)
 
 **Week 03** (23-29 January)
-- [T: Different ways to define NNs](./JNotebooks/tutorial05_different_approaches_to_define_neural_networks_keras.ipynb)
 - [T: Fully Connected NN: Image Classification](./JNotebooks/tutorial08_step_by_step_MNIST_digits_classification.ipynb)
 - [L: Convolutional  Neural Networks](./PDFs/ENEL645/ENEL645_lecture08_convolutional_neural_networks.pdf)
+- [T: Different ways to define NNs](./JNotebooks/tutorial05_different_approaches_to_define_neural_networks_keras.ipynb)
 - Quiz: 27 January
 
 **Week 04** (30 January - 05 February)
