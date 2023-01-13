@@ -25,7 +25,7 @@ For all teamwork assigments, including the final project, your team needs an add
 -[Final Project](./Rubric/ENEL645/Final-project-description-rubric-ENEL645.pdf)
 
 Templates for final project:
-- [Overleaf](https://www.overleaf.com/project/61391a30b6ff02091bf5100b)
+- [Overleaf](https://www.overleaf.com/2787846576rwxjwjnhywpf)
 - [MS Word](./final-project-template.docx)
 
 
@@ -107,7 +107,7 @@ Templates for final project:
 -[Final Project](./Rubric/ENSF619/Final-project-description-rubric-ENSF619.pdf)
 
 Templates for final project:
-- [Overleaf](https://www.overleaf.com/project/61391a30b6ff02091bf5100b)
+- [Overleaf](https://www.overleaf.com/2787846576rwxjwjnhywpf)
 - [MS Word](./final-project-template.docx)
 
 
