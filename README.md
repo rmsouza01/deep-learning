@@ -179,7 +179,7 @@ Templates for final project:
 
 [10] J. Bassey, L. Qian, and X. Li, “A Survey of Complex-Valued Neural Networks.” arXiv, Jan. 28, 2021. Accessed: Dec. 15, 2022. [Online]. Available: http://arxiv.org/abs/2101.12249
 
-*Presenters:* TBD
+*Presenters:* Natalia Dubljevic and Paula Brandt
 
 **Week 06** (13-19 February)
 - Monday lecture TBD
