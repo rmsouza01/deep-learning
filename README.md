@@ -168,6 +168,7 @@ Templates for final project:
 [7] O. Ronneberger, P. Fischer, and T. Brox, “U-Net: Convolutional Networks for Biomedical Image Segmentation.” arXiv, May 18, 2015. Accessed: Jan. 07, 2023. [Online]. Available: http://arxiv.org/abs/1505.04597
 
 [8] L.-C. Chen, G. Papandreou, I. Kokkinos, K. Murphy, and A. L. Yuille, “DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs,” IEEE Trans. Pattern Anal. Mach. Intell., vol. 40, no. 4, pp. 834–848, Apr. 2018, doi: 10.1109/TPAMI.2017.2699184.
+
 *Presenters:* Tariq Al Shoura
 
 **Week 05** (06-12 February)
@@ -225,7 +226,7 @@ Templates for final project:
 
 [20] X. Liang, L. Lee, W. Dai, and E. P. Xing, “Dual Motion GAN for Future-Flow Embedded Video Prediction,” in 2017 IEEE International Conference on Computer Vision (ICCV), Venice, Oct. 2017, pp. 1762–1770. doi: 10.1109/ICCV.2017.194.
 
-*Presenters:* TBD
+*Presenters:* Abbas Omidi and Aida Mohammadshahi
 
 **Week 10** (13-19 March)
 - Monday lecture TBD
@@ -234,7 +235,7 @@ Templates for final project:
 
 [22] Y. Xian, C. H. Lampert, B. Schiele, and Z. Akata, “Zero-Shot Learning—A Comprehensive Evaluation of the Good, the Bad and the Ugly,” IEEE Trans. Pattern Anal. Mach. Intell., vol. 41, no. 9, pp. 2251–2265, Sep. 2019, doi: 10.1109/TPAMI.2018.2857768.
 
-*Presenters:* TBD
+*Presenters:* Jose Cazarin
 
 **Week 11** (20-26 March)
 - Monday lecture TBD
