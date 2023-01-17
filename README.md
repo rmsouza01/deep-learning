@@ -129,6 +129,7 @@ Templates for final project:
 **Week 02** (16-22 January)
 - [L: Deep Learning Intuition](./PDFs/ENSF619/ENSF619_lecture04_deep_learning_intuition.pdf)
 - [L: Fully Connected Neural Networks](./PDFs/ENSF619/ENSF619_lecture06_convolutional_neural_networks.pdf)
+- [T: Softmax, cross-entropy, etc.](./JNotebooks/tutorial07_softmax_one_hot_encoding_loss_functions.ipynb)
 - [L: Convolutional  Neural Networks](./PDFs/ENSF619/ENSF619_lecture06_convolutional_neural_networks.pdf)
 - [T: Fully Connected NN: Image Classification](./JNotebooks/tutorial08_step_by_step_MNIST_digits_classification.ipynb)
 - [T: CNN: Image Classification](./JNotebooks/tutorial10_step_by_step_MNIST_digits_classification_cnn.ipynb)
@@ -167,7 +168,6 @@ Templates for final project:
 [7] O. Ronneberger, P. Fischer, and T. Brox, “U-Net: Convolutional Networks for Biomedical Image Segmentation.” arXiv, May 18, 2015. Accessed: Jan. 07, 2023. [Online]. Available: http://arxiv.org/abs/1505.04597
 
 [8] L.-C. Chen, G. Papandreou, I. Kokkinos, K. Murphy, and A. L. Yuille, “DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs,” IEEE Trans. Pattern Anal. Mach. Intell., vol. 40, no. 4, pp. 834–848, Apr. 2018, doi: 10.1109/TPAMI.2017.2699184.
-
 *Presenters:* Tariq Al Shoura
 
 **Week 05** (06-12 February)
