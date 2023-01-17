@@ -132,31 +132,30 @@ Templates for final project:
 - [T: Fully Connected NN: Image Classification](./JNotebooks/tutorial08_step_by_step_MNIST_digits_classification.ipynb)
 - [T: CNN: Image Classification](./JNotebooks/tutorial10_step_by_step_MNIST_digits_classification_cnn.ipynb)
 
+
+**Week 03** (23-29 January)
+*Monday - paper discussion*
 *Paper discussion*
 
 [1] K. Simonyan and A. Zisserman, “Very Deep Convolutional Networks for Large-Scale Image Recognition.” arXiv, Apr. 10, 2015. Accessed: Dec. 08, 2022. [Online]. Available: http://arxiv.org/abs/1409.1556
 
 [2] K. He, X. Zhang, S. Ren, and J. Sun, “Deep Residual Learning for Image Recognition.” arXiv, Dec. 10, 2015. Accessed: Dec. 08, 2022. [Online]. Available: http://arxiv.org/abs/1512.03385
+*Presenters:* Nisha Mansuri and Yashkumar Trada
 
-*Presenters:* TBD
 
-**Week 03** (23-29 January)
-- [L: Transfer Learning](./PDFs/ENSF619/ENSF619_lecture07_transfer_learning.pdf)
-- [T: Transfer Learning](./JNotebooks/tutorial11_transfer_learning_imagenet.ipynb)
-- Quiz: 27 January
-
-*Paper discussion*
-
+* Friday (27 January) - short quiz and paper discussion*
 [3] M. Tan and Q. V. Le, “EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks,” p. 10.
 
-*Presenters:* TBD
+*Presenters:* Anik Das
 
 [4] Z. Liu, H. Mao, C.-Y. Wu, C. Feichtenhofer, T. Darrell, and S. Xie, “A ConvNet for the 2020s.” arXiv, Mar. 02, 2022. Accessed: Dec. 08, 2022. [Online]. Available: http://arxiv.org/abs/2201.03545
 
 *Presenters:* TBD
 
 **Week 04** (30 January - 05 February)
-- Monday lecture TBD
+- [L: Transfer Learning](./PDFs/ENSF619/ENSF619_lecture07_transfer_learning.pdf)
+- [T: Transfer Learning](./JNotebooks/tutorial11_transfer_learning_imagenet.ipynb)
+
 
 [5] A. Dosovitskiy et al., “An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.” arXiv, Jun. 03, 2021. Accessed: Dec. 08, 2022. [Online]. Available: http://arxiv.org/abs/2010.11929
 
@@ -168,7 +167,7 @@ Templates for final project:
 
 [8] L.-C. Chen, G. Papandreou, I. Kokkinos, K. Murphy, and A. L. Yuille, “DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs,” IEEE Trans. Pattern Anal. Mach. Intell., vol. 40, no. 4, pp. 834–848, Apr. 2018, doi: 10.1109/TPAMI.2017.2699184.
 
-*Presenters:* TBD
+*Presenters:* Tariq Al Shoura
 
 **Week 05** (06-12 February)
 - Monday lecture TBD
