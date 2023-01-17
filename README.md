@@ -45,7 +45,8 @@ Templates for final project:
 
 **Week 02** (16-22 January)
 - [L: Deep Learning Intuition](./PDFs/ENEL645/ENEL645_lecture05_deep_learning_intuition.pdf)
-- [L: Data Normalization](./PDFs/ENEL645/ENEL645_lecture06_data_normalization.pdf)
+- [T: Softmax, cross-entropy, etc.](./JNotebooks/tutorial07_softmax_one_hot_encoding_loss_functions.ipynb)
+- [L: Data Normalization (self-study)](./PDFs/ENEL645/ENEL645_lecture06_data_normalization.pdf)
 - [L: Fully Connected Neural Networks](./PDFs/ENEL645/ENEL645_lecture07_fully_connected_neural_networks.pdf)
 - [T: Fully Connected NN: 2D Synthetic Example](./JNotebooks/tutorial04_fully_connected_neural_network_2D_synthetic_example.ipynb)
 - [T: Fully Connected NN: Image Classification - PyTorch](./JNotebooks/fully_connected_NN_mnist_pytorch.ipynb)
