@@ -142,6 +142,7 @@ Templates for final project:
 [1] K. Simonyan and A. Zisserman, “Very Deep Convolutional Networks for Large-Scale Image Recognition.” arXiv, Apr. 10, 2015. Accessed: Dec. 08, 2022. [Online]. Available: http://arxiv.org/abs/1409.1556
 
 [2] K. He, X. Zhang, S. Ren, and J. Sun, “Deep Residual Learning for Image Recognition.” arXiv, Dec. 10, 2015. Accessed: Dec. 08, 2022. [Online]. Available: http://arxiv.org/abs/1512.03385
+
 *Presenters:* Nisha Mansuri and Yashkumar Trada
 
 
@@ -210,7 +211,7 @@ Templates for final project:
 
 [16] N. K. Dinsdale, M. Jenkinson, and A. I. L. Namburete, “Deep learning-based unlearning of dataset bias for MRI harmonisation and confound removal,” NeuroImage, vol. 228, p. 117689, Mar. 2021, doi: 10.1016/j.neuroimage.2020.117689.
 
-*Presenters:* TBD
+*Presenters:* Salma Begum Tamanna and Rubya Afrin
 
 [17] R. Rombach, A. Blattmann, D. Lorenz, P. Esser, and B. Ommer, “High-Resolution Image Synthesis with Latent Diffusion Models,” in 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), New Orleans, LA, USA, Jun. 2022, pp. 10674–10685. doi: 10.1109/CVPR52688.2022.01042.
 
