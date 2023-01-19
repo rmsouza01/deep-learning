@@ -147,6 +147,7 @@ Templates for final project:
 
 
 * Friday (27 January) - short quiz and paper discussion*
+
 [3] M. Tan and Q. V. Le, “EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks,” p. 10.
 
 *Presenters:* Anik Das
