@@ -153,7 +153,7 @@ Templates for final project:
 
 [4] Z. Liu, H. Mao, C.-Y. Wu, C. Feichtenhofer, T. Darrell, and S. Xie, “A ConvNet for the 2020s.” arXiv, Mar. 02, 2022. Accessed: Dec. 08, 2022. [Online]. Available: http://arxiv.org/abs/2201.03545
 
-*Presenters:* TBD
+*Presenters:* Mouri Zakir
 
 **Week 04** (30 January - 05 February)
 - [L: Transfer Learning](./PDFs/ENSF619/ENSF619_lecture07_transfer_learning.pdf)
