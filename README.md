@@ -50,6 +50,8 @@ Templates for final project:
 - [L: Fully Connected Neural Networks](./PDFs/ENEL645/ENEL645_lecture07_fully_connected_neural_networks.pdf)
 - [T: Fully Connected NN: 2D Synthetic Example](./JNotebooks/tutorial04_fully_connected_neural_network_2D_synthetic_example.ipynb)
 - [T: Fully Connected NN: Image Classification - PyTorch](./JNotebooks/fully_connected_NN_mnist_pytorch.ipynb)
+- [T: Fully Connected NN: Image Classification - PyTorch - explanation of the code in the tutorial above](./PDFs/ENEL645/fully_connected_neural_networs_pytorch_tutorial_summary.pdf)
+
 
 **Week 03** (23-29 January)
 - [T: Fully Connected NN: Image Classification](./JNotebooks/tutorial08_step_by_step_MNIST_digits_classification.ipynb)
