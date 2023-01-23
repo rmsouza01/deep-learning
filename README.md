@@ -180,7 +180,7 @@ Templates for final project:
 
 [9] A. Hatamizadeh et al., “UNETR: Transformers for 3D Medical Image Segmentation,” in 2022 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Waikoloa, HI, USA, Jan. 2022, pp. 1748–1758. doi: 10.1109/WACV51458.2022.00181.
 
-*Presenters:* TBD
+*Presenters:* Philip Ciunkiewicz
 
 [10] J. Bassey, L. Qian, and X. Li, “A Survey of Complex-Valued Neural Networks.” arXiv, Jan. 28, 2021. Accessed: Dec. 15, 2022. [Online]. Available: http://arxiv.org/abs/2101.12249
 
@@ -239,7 +239,7 @@ Templates for final project:
 
 [22] Y. Xian, C. H. Lampert, B. Schiele, and Z. Akata, “Zero-Shot Learning—A Comprehensive Evaluation of the Good, the Bad and the Ugly,” IEEE Trans. Pattern Anal. Mach. Intell., vol. 41, no. 9, pp. 2251–2265, Sep. 2019, doi: 10.1109/TPAMI.2018.2857768.
 
-*Presenters:* Jose Cazarin
+*Presenters:* Jose Cazarin and Mohammed Adnan
 
 **Week 11** (20-26 March)
 - Monday lecture TBD
