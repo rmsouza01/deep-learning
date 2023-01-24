@@ -136,7 +136,6 @@ Templates for final project:
 - [T: Fully Connected NN: Image Classification](./JNotebooks/tutorial08_step_by_step_MNIST_digits_classification.ipynb)
 - [T: CNN: Image Classification](./JNotebooks/tutorial10_step_by_step_MNIST_digits_classification_cnn.ipynb)
 
-
 **Week 03** (23-29 January)
 *Monday - paper discussion*
 *Paper discussion*
@@ -193,7 +192,7 @@ Templates for final project:
 
 [12] M. J. Cardoso et al., “MONAI: An open-source framework for deep learning in healthcare.” arXiv, Nov. 04, 2022. Accessed: Dec. 08, 2022. [Online]. Available: http://arxiv.org/abs/2211.02701
 
-*Presenters:* TBD
+*Presenters:* Mahsa Dibaji and Aashka Mohite
 
 [13] R. R. Selvaraju, M. Cogswell, A. Das, R. Vedantam, D. Parikh, and D. Batra, “Grad-CAM: Visual Explanations From Deep Networks via Gradient-Based Localization”.
 
