@@ -166,7 +166,7 @@ Templates for final project:
 
 [6] Z. Liu et al., “Swin Transformer: Hierarchical Vision Transformer using Shifted Windows,” in 2021 IEEE/CVF International Conference on Computer Vision (ICCV), Montreal, QC, Canada, Oct. 2021, pp. 9992–10002. doi: 10.1109/ICCV48922.2021.00986.
 
-*Presenters:* TBD
+*Presenters:* Hadi Heidarirad and Reet Ghosh 
 
 [7] O. Ronneberger, P. Fischer, and T. Brox, “U-Net: Convolutional Networks for Biomedical Image Segmentation.” arXiv, May 18, 2015. Accessed: Jan. 07, 2023. [Online]. Available: http://arxiv.org/abs/1505.04597
 
