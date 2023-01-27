@@ -217,7 +217,7 @@ Templates for final project:
 
 [17] R. Rombach, A. Blattmann, D. Lorenz, P. Esser, and B. Ommer, “High-Resolution Image Synthesis with Latent Diffusion Models,” in 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), New Orleans, LA, USA, Jun. 2022, pp. 10674–10685. doi: 10.1109/CVPR52688.2022.01042.
 
-*Presenters:* TBD
+*Presenters:* Mehregan Biglarbeik
 
 
 **Week 09** (06-12 March)
