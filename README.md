@@ -198,7 +198,7 @@ Templates for final project:
 
 [14] S. Bach, A. Binder, G. Montavon, F. Klauschen, K.-R. Müller, and W. Samek, “On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation,” PLoS ONE, vol. 10, no. 7, p. e0130140, Jul. 2015, doi: 10.1371/journal.pone.0130140.
 
-*Presenters:* TBD
+*Presenters:* Sepideh Afshar
 
 **Week 07** (20-26 February)
 - Reading week
