@@ -1,0 +1,6 @@
+transformers
+ipykernel
+matplotlib
+seaborn
+plotly
+scikit-learn
