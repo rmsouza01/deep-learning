@@ -129,4 +129,7 @@ dmypy.json
 .pyre/
 
 # Data files
-Data/garbage_images/
+Data/full_dataset/
+
+# pytorch checkpoints
+**.pt
