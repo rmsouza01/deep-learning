@@ -68,11 +68,10 @@ Templates for final project:
 - Discussion about assignment 01 - Friday class
 
 **Week 05** (06-12 February)
-- Lectures TBD
-
+- [T: Garbage classifier - images](./JNotebooks/garbage_classifier_images_w2023.ipynb)
 
 **Week 06** (13-19 February)
-- Lectures TBD
+- [T: Garbage classifier - images (SLURM)](./SLURM/Garbage-classifier-w2023/)
 - Quiz: 17 February
 
 **Week 07** (20-26 February)
@@ -158,6 +157,8 @@ Templates for final project:
 *Presenters:* Mouri Zakir
 
 **Week 04** (30 January - 05 February)
+- [T: Fully Connected NN: Image Classification - PyTorch](./JNotebooks/fully_connected_NN_mnist_pytorch.ipynb)
+- [T: Fully Connected NN: Image Classification - PyTorch - explanation of the code in the tutorial above](./PDFs/ENEL645/fully_connected_neural_networs_pytorch_tutorial_summary.pdf)
 - [L: Transfer Learning](./PDFs/ENSF619/ENSF619_lecture07_transfer_learning.pdf)
 - [T: Transfer Learning](./JNotebooks/tutorial11_transfer_learning_imagenet.ipynb)
 
