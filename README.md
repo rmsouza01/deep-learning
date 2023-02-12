@@ -176,7 +176,7 @@ Templates for final project:
 *Presenters:* Tariq Al Shoura
 
 **Week 05** (06-12 February)
-- Monday lecture TBD
+- [Models imagenet](./Modules/models_imagenet.py)
 
 [9] A. Hatamizadeh et al., “UNETR: Transformers for 3D Medical Image Segmentation,” in 2022 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Waikoloa, HI, USA, Jan. 2022, pp. 1748–1758. doi: 10.1109/WACV51458.2022.00181.
 
