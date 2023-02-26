@@ -130,3 +130,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Data files
+Data/full_dataset/
+Data/denoising-1d.zip
+Data/denoising-1d/*
+
+# pytorch checkpoints
+**.pt

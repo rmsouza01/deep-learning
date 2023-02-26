@@ -1,0 +1,9 @@
+transformers
+datasets
+ipykernel
+ipywidgets==7.*  # We can't use >8.0 yet as it is unsupported in vs-code notebook extension
+matplotlib
+seaborn
+plotly
+scikit-learn
+wordcloud

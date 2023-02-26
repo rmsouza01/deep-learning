@@ -1,0 +1,28 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+// README at: https://github.com/devcontainers/templates/tree/main/src/docker-existing-dockerfile
+{
+	"name": "Existing Dockerfile",
+	"build": {
+		// Sets the run context to one level up instead of the .devcontainer folder.
+		"context": "..",
+		// Update the 'dockerFile' property if you aren't using the standard 'Dockerfile' filename.
+		"dockerfile": "../Dockerfile"
+	},
+	"extensions": [
+		"ms-python.python",
+		"njpwerner.autodocstring"
+	],
+	"settings": {
+		"terminal.integrated.defaultProfile.linux": "bash"
+	},
+	"workspaceMount": "source=${localWorkspaceFolder}/,target=/home/user/deep-learning,type=bind",
+	"workspaceFolder": "/home/user/deep-learning",
+	"mounts": [
+		// "source=/dataset,target=/home/user/dataset,type=bind"  // Use to mount custom datasets from host
+	],
+	"runArgs": [
+		"--gpus",
+		"all"
+	],
+	"postStartCommand": "/bin/bash && git config --global --add safe.directory ${containerEnv:WORKSPACE_DIR} && git init ."
+}
