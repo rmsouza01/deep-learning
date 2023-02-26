@@ -72,6 +72,7 @@ Templates for final project:
 
 **Week 06** (13-19 February)
 - [T: Garbage classifier - images (SLURM)](./SLURM/Garbage-classifier-w2023/)
+- [L: Sex Prediction from Brain Images](./PDFs/ENEL645/ENEL645_lecture11_sex_prediction.pdf)
 - Quiz: 17 February
 
 **Week 07** (20-26 February)
@@ -79,7 +80,6 @@ Templates for final project:
 
 
 **Week 08** (27 February - 05 March)
-- Lectures TBD
 - Quiz: 27 February
 
 
