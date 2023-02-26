@@ -211,7 +211,7 @@ Templates for final project:
 **Week 08** (27 February - 05 March)
 - Quiz: 27 February
 - Assignment 01 due 27 February at midnight
-- Monday lecture TBD
+- [T: GRAD-CAM - Alzheimer's Classification](./JNotebooks/alzheimer_classificiation.ipynb)
 
 [15] Y. Ganin et al., “Domain-Adversarial Training of Neural Networks,” in Domain Adaptation in Computer Vision Applications, G. Csurka, Ed. Cham: Springer International Publishing, 2017, pp. 189–209. doi: 10.1007/978-3-319-58347-1_10.
 
