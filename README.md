@@ -81,6 +81,9 @@ Templates for final project:
 
 **Week 08** (27 February - 05 March)
 - Quiz: 27 February
+- [T: Garbage Classifier - Transfer Learning on Text](./JNotebooks/transfer_learning_BERT.ipynb)
+- [L: The U-net model](./PDFs/ENEL645/ENEL645_lecture12_unets.pdf)
+- [T: U-net Denoising 1D signals](./JNotebooks/denoising-1d-pt.ipynb)
 
 
 **Week 09** (06-12 March)
