@@ -225,7 +225,7 @@ Templates for final project:
 
 
 **Week 09** (06-12 March)
-- Monday lecture TBD
+- [Domain-adversarial Training of Neural Networks](./JNotebooks/DANN.ipynb)
 
 [18] T. Chen, S. Kornblith, M. Norouzi, and G. Hinton, “A Simple Framework for Contrastive Learning of Visual Representations”.
 
