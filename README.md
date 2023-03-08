@@ -87,7 +87,8 @@ Templates for final project:
 
 
 **Week 09** (06-12 March)
-- Lectures TBD
+- [L: Domain Adaptation](./PDFs/ENEL645/ENEL645lecture13-domain-adaptation.pdf)
+- [T: Domain-adversarial Training of Neural Networks](./JNotebooks/DANN.ipynb)
 - Assignment 02 due 06 March at midnight
 
 **Week 10** (13-19 March)
