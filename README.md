@@ -92,7 +92,8 @@ Templates for final project:
 - Assignment 02 due 06 March at midnight
 
 **Week 10** (13-19 March)
-- Lectures TBD
+- [T: Traditional ML - Bank](./JNotebooks/tutorial_traditional_ML.ipynb)
+- [T: Traditional ML - Sex classification](./JNotebooks/tutorial_rf_sex_classification.ipynb)
 
 **Week 11** (20-26 March)
 - Lectures TBD
