@@ -96,12 +96,13 @@ Templates for final project:
 - [T: Traditional ML - Sex classification](./JNotebooks/tutorial_rf_sex_classification.ipynb)
 
 **Week 11** (20-26 March)
-- Lectures TBD
-- Wednesday and Friday - support for finalizing the projects
+- [L: Generative Adversarial Networks](./PDFs/ENEL645/ENEL645_lecture14_generative_adversarial_networks.pdf)
 
 **Weeks 12 and 13** (27 March - 12 April  )
-- Project report and 10 minute presentation recording due date: 27 March at 9 am
-- Final projects' presentations
+- [L: Auto-encoders](./PDFs/ENEL645/ENEL645_lecture15__auto_encoder.pdf)
+- [L: Recurrent Neural Networks](./PDFs/ENEL645/ENEL645_lecture16_recurrrent_neural_networks.pdf)
+- April 3rd - deadline for delviering the final projects (report + recordings)
+- Presentations are optional
 
 
 ## ENSF 619.02
@@ -227,6 +228,7 @@ Templates for final project:
 
 
 **Week 09** (06-12 March)
+- [L: Domain Adaptation](./PDFs/ENSF619/ENSF619_lecture08_domain-adaptation.pdf)
 - [Domain-adversarial Training of Neural Networks](./JNotebooks/DANN.ipynb)
 
 [18] T. Chen, S. Kornblith, M. Norouzi, and G. Hinton, “A Simple Framework for Contrastive Learning of Visual Representations”.
@@ -238,7 +240,7 @@ Templates for final project:
 *Presenters:* Abbas Omidi and Aida Mohammadshahi
 
 **Week 10** (13-19 March)
-- Monday lecture TBD
+- [L: Generative Adversarial Networks](./PDFs/ENSF619/ENSF619_lecture09_generative_adversarial_networks.pdf)
 
 [21] Y. Wang, Q. Yao, J. T. Kwok, and L. M. Ni, “Generalizing from a Few Examples: A Survey on Few-shot Learning,” ACM Comput. Surv., vol. 53, no. 3, pp. 1–34, May 2021, doi: 10.1145/3386252.
 
@@ -247,13 +249,13 @@ Templates for final project:
 *Presenters:* Jose Cazarin and Mohammed Adnan
 
 **Week 11** (20-26 March)
-- Monday lecture TBD
-- Friday - support for finalizing the projects
+- [L: Auto-encoders](./PDFs/ENSF619/ENSF619_lecture10__auto_encoder.pdf)
+- [L: Recurrent Neural Networks](./PDFs/ENSF619/ENSF619_lecture11_recurrrent_neural_networks.pdf)
+
 
 **Weeks 12 and 13** (27 March - 03 April  )
-- Project report and 10 minute presentation recording due date: 27 March at 9 am
-- Final projects' presentations
-
+- April 3rd - Final project's presentattions - 11 am to 2:30 pm at ENG 207
+- 
 
 
 
