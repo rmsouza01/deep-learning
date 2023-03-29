@@ -101,7 +101,7 @@ Templates for final project:
 **Weeks 12 and 13** (27 March - 12 April  )
 - [L: Auto-encoders](./PDFs/ENEL645/ENEL645_lecture15__auto_encoder.pdf)
 - [L: Recurrent Neural Networks](./PDFs/ENEL645/ENEL645_lecture16_recurrrent_neural_networks.pdf)
-- April 3rd - deadline for delviering the final projects (report + recordings)
+- April 3rd - deadline for delivering the final projects (report + recordings)
 - Presentations are optional
 
 
