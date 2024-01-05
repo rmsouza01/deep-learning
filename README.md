@@ -21,6 +21,10 @@ This repo is constantly being updated. Initially, we used TensorFlow as the deep
 ### Assignments and Final Project Instructions and Rubric
 TBD
 
+Templates for final project:
+- [Overleaf](https://www.overleaf.com/2787846576rwxjwjnhywpf)
+- [MS Word](./final-project-template.docx)
+
 ### Lectures and Tutorials
 
 **Week 0**
@@ -31,6 +35,9 @@ TBD
 
 **Week 1**
 
+**Week 1**
+
+- M: [L: Course Overview](./PDFs/ENEL645/ENEL645_lecture01_course_overview.pdf)
 ## ENSF 619.02
 
 ### Important Dates
@@ -44,6 +51,10 @@ TBD
 ### Assignments and Final Project Instructions and Rubric
 TBD
 
+Templates for final project:
+- [Overleaf](https://www.overleaf.com/2787846576rwxjwjnhywpf)
+- [MS Word](./final-project-template.docx)
+
 ### Lectures and Tutorials
 
 **Week 0**
@@ -53,4 +64,7 @@ TBD
 - [T: Avoid Loops](./JNotebooks/tutorial02_1_python_sumpy_programming_style.ipynb)
 
 
+**Week 1**
+
+- M: [L: Course Overview](./PDFs/ENSF619/ENSF619_lecture01_course_overview.pdf)
 
