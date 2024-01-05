@@ -16,7 +16,8 @@ This repo is constantly being updated. Initially, we used TensorFlow as the deep
 - Midterm is on February 28th in the classroom
 - Midterm accommodation for those who missed the previous date is on March 6th in the classroom
 - Final Projects is due March 27th - Submit in a D2L dropbox
-
+- Reading week 18-24 February | March 29th Good Friday | April 1st Easter Monday
+   
 ### Assignments and Final Project Instructions and Rubric
 TBD
 
@@ -38,6 +39,7 @@ TBD
 - Quiz 01 is on February 2nd in the classroom. Bring your laptop.
 - Quiz 02 is on March 1st in the classroom. Bring your laptop.
 - Final Projects is due March 29th - Submit in a D2L dropbox
+- Reading week 18-24 February | March 29th Good Friday | April 1st Easter Monday
 
 ### Assignments and Final Project Instructions and Rubric
 TBD
