@@ -35,9 +35,14 @@ Templates for final project:
 
 **Week 1**
 
-**Week 1**
-
 - M: [L: Course Overview](./PDFs/ENEL645/ENEL645_lecture01_course_overview.pdf)
+- W: [L: Fundamentals ML](./PDFs/ENEL645/ENEL645_lecture02_fundamentals_ml.pdf)
+- F: [L: Overfitting and Regularization](./PDFs/ENEL645/ENEL645_lecture03_overfitting_regularization.pdf)
+
+**Week 2**
+
+- M: [T: Overfitting and Regularization](./JNotebooks/tutorial03-overfitting_regularization.ipynb)
+
 ## ENSF 619.02
 
 ### Important Dates
@@ -66,5 +71,13 @@ Templates for final project:
 
 **Week 1**
 
-- M: [L: Course Overview](./PDFs/ENSF619/ENSF619_lecture01_course_overview.pdf)
+- M: 
+    - Meet and Greet
+    - [L: Course Overview](./PDFs/ENSF619/ENSF619_lecture01_course_overview.pdf)
+    
+- F:
+    -  [L: Fundamentals ML](./PDFs/ENEL645/ENEL645_lecture02_fundamentals_ml.pdf)
+    -  [T: Overfitting and Regularization](./JNotebooks/tutorial03-overfitting_regularization.ipynb)
+    -  [L: Overfitting and Regularization](./PDFs/ENSF619/ENSF619_lecture03_overfitting_regularization.pdf)
+    - Define presentation dates
 
