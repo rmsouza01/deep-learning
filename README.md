@@ -39,11 +39,73 @@ Templates for final project:
 
 - M: [L: Course Overview](./PDFs/ENEL645/ENEL645_lecture01_course_overview.pdf)
 - W: [L: Fundamentals ML](./PDFs/ENEL645/ENEL645_lecture02_fundamentals_ml.pdf)
-- F: [L: Overfitting and Regularization](./PDFs/ENEL645/ENEL645_lecture03_overfitting_regularization.pdf)
+- F:
+   - [L: Overfitting and Regularization](./PDFs/ENEL645/ENEL645_lecture03_overfitting_regularization.pdf)
+   - [T: Overfitting and Regularization](./JNotebooks/tutorial03-overfitting_regularization.ipynb)
 
 **Week 2**
 
-- M: [T: Overfitting and Regularization](./JNotebooks/tutorial03-overfitting_regularization.ipynb)
+- M: Deep Learning Intuition (L) + Softmax, cross-entropy, etc. (T)
+- W: Fully Connected Neural Networks (L) +  Fully Connected NN: 2D Synthetic Example (T)
+- F: 19 Fully Connected NN: Image Classification - PyTorch (T)
+
+**Week 3**
+- M: Weights and Biases (T - Natalia)
+- W: Convolutional  Neural Networks (L)
+- F: Image Classification (T)
+
+**Week 4**
+- M: Fully Connected NN - Revisited (T)
+- W: Transfer Learning (L + T) 
+- F: Garbage classifier - images (T - cluster)
+
+**Week 5**
+- M: Garbage Classifier - Transfer Learning on Text (T - Natalia)
+- W: The U-net model (L - Natalia)
+- F: U-net Denoising 1D signals (T - Natalia)
+
+**Week 6**
+- M: Transformers (L - Peyman)
+- W: Transformers (T - Peyman) 
+- F: Self-supervised learning (L - Peyman)
+
+**Week 7**
+- M: - Reading week
+- W: - Reading week
+- F: - Reading week
+
+**Week 8**
+- M: Self-supervised learning (T - Peyman)
+- W: - Midterm 
+- F: Domain Adaptation (L) 
+
+**Week 9**
+- M: Responsible AI (L - Mahsa)
+- W: Midterm (2nd chance)
+- F:  Responsible AI (T - Mahsa)
+
+**Week 10**
+- M: XAI (L - Mahsa)
+- W: XAI (T - Mahsa)
+- - F: Physics Informed NNs (L - Natalia)
+
+**Week 11**
+- M: Physics Informed NNs (T - Natalia)
+- W: Graph NNs (L - Natalia)
+- F: Graph NNs (T - Natalia)
+
+**Week 12**
+- M: Traditional ML
+- W: (spare class if things need to be shifted)
+- F:Good Friday
+
+**Week 13**
+- M: Easter Monday
+- W: Final projects
+- F: Final projects
+
+**Week 14**
+- M: Final projects
 
 ## ENSF 619.02
 
