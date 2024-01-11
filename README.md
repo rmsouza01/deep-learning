@@ -126,7 +126,10 @@ Templates for final project:
 - Reading week 18-24 February | March 29th Good Friday | April 1st Easter Monday
 
 ### Assignments and Final Project Instructions and Rubric
-TBD
+- [Assignment 01](./Rubric/ENSF619/Tutorial-creation-assignment.pdf)
+- [Assignment 02](./Rubric/ENSF619/ENSF-619-02-paper-reading-assignment.pdf)
+- [Final  Project](./Rubric/ENSF619/Final-project-description-rubric-ENSF.pdf) 
+
 
 Templates for final project:
 - [Overleaf](https://www.overleaf.com/2787846576rwxjwjnhywpf)
