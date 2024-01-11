@@ -48,7 +48,7 @@ Templates for final project:
 - M: 
    - [L: Deep Learning Intuition](./PDFs/ENEL645/lecture04_deep_learning_intuition.pdf)
    - [T: Softmax, cross-metropy](./JNotebooks/tutorial07_softmax_one_hot_encoding_loss_functions.ipynb)
-- W: Fully Connected NN: 2D Synthetic Example (T)
+- W: 
    - [L: Fully Connected Neural Networks](./PDFs/ENEL645/lecture05_fully_connected_neural_networks.pdf)
    - [T: Fully Connected NN: 2D Synthetic Example](./JNotebooks/tutorial04_fully_connected_neural_network_2D_synthetic_example.ipynb)
 - F: [T: Fully Connected NN: Image Classification](./JNotebooks/tutorial08_step_by_step_MNIST_digits_classification.ipynb)
@@ -164,7 +164,7 @@ Templates for final project:
 
 
 **Week 3**
--M:
+- M:
     - [L: Convolutional  Neural Networks](./PDFs/ENEL645/lecture07_convolutional_neural_networks.pdf)
     - [T: Convolutional Neural Networks - Image Classification](./JNotebooks/tutorial10_step_by_step_MNIST_digits_classification_cnn.ipynb)
 
