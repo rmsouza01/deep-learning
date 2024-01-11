@@ -178,6 +178,8 @@ Templates for final project:
     - [L: The U-net model](./PDFs/ENSF619/lecture09_unets.pdf)
     - T: Medical image segmentation cluster
 
-- F: Paper presentations - TBD
+- F: 
+    - Quiz #01
+    - Paper presentations - TBD
 
 
