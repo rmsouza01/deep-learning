@@ -45,18 +45,26 @@ Templates for final project:
 
 **Week 2**
 
-- M: Deep Learning Intuition (L) + Softmax, cross-entropy, etc. (T)
-- W: Fully Connected Neural Networks (L) +  Fully Connected NN: 2D Synthetic Example (T)
-- F: 19 Fully Connected NN: Image Classification - PyTorch (T)
+- M: 
+   - [L: Deep Learning Intuition](./PDFs/ENEL645/lecture04_deep_learning_intuition.pdf)
+   - [T: Softmax, cross-metropy](./JNotebooks/tutorial07_softmax_one_hot_encoding_loss_functions.ipynb)
+- W: Fully Connected NN: 2D Synthetic Example (T)
+   - [L: Fully Connected Neural Networks](./PDFs/ENEL645/lecture05_fully_connected_neural_networks.pdf)
+   - [T: Fully Connected NN: 2D Synthetic Example](./JNotebooks/tutorial04_fully_connected_neural_network_2D_synthetic_example.ipynb)
+- F: [T: Fully Connected NN: Image Classification](./JNotebooks/tutorial08_step_by_step_MNIST_digits_classification.ipynb)
 
 **Week 3**
 - M: Weights and Biases (T - Natalia)
-- W: Convolutional  Neural Networks (L)
-- F: Image Classification (T)
+- W: 
+    - [L: Data Normalization](./PDFs/ENEL645/lecture06_data_normalization.pdf)
+    - [L: Convolutional  Neural Networks](./PDFs/ENEL645/lecture07_convolutional_neural_networks.pdf)
+- F: [T: Convolutional Neural Networks - Image Classification](./JNotebooks/tutorial10_step_by_step_MNIST_digits_classification_cnn.ipynb)
 
 **Week 4**
-- M: Fully Connected NN - Revisited (T)
-- W: Transfer Learning (L + T) 
+- M: [T: Fully Connected NN - Revisited](./JNotebooks/tutorial09_fully_connected_neural_networks_revisited.ipynb)
+- W: 
+    - [L:Transfer Learning](./PDFs/ENEL645/lecture08_transfer_learning.pdf)
+    - [T: Transfer Learning](./JNotebooks/tutorial11_transfer_learning_imagenet.ipynb) 
 - F: Garbage classifier - images (T - cluster)
 
 **Week 5**
@@ -140,8 +148,36 @@ Templates for final project:
     - [L: Course Overview](./PDFs/ENSF619/ENSF619_lecture01_course_overview.pdf)
     
 - F:
-    -  [L: Fundamentals ML](./PDFs/ENEL645/ENEL645_lecture02_fundamentals_ml.pdf)
+    -  [L: Fundamentals ML](./PDFs/ENSF619/ENEL645_lecture02_fundamentals_ml.pdf)
     -  [T: Overfitting and Regularization](./JNotebooks/tutorial03-overfitting_regularization.ipynb)
     -  [L: Overfitting and Regularization](./PDFs/ENSF619/ENSF619_lecture03_overfitting_regularization.pdf)
     - Define presentation dates
+
+**Week 2**
+- M:
+   - [L: Deep Learning Intuition](./PDFs/ENSF619/lecture04_deep_learning_intuition.pdf)
+   - [T: Softmax, cross-metropy](./JNotebooks/tutorial07_softmax_one_hot_encoding_loss_functions.ipynb)
+   - [L: Fully Connected Neural Networks](./PDFs/ENSF619/lecture05_fully_connected_neural_networks.pdf)
+- F: 
+    - [L: Data Normalization](./PDFs/ENSF619/lecture06_data_normalization.pdf)
+    - [T: Fully Connected NN: Image Classification](./JNotebooks/tutorial08_step_by_step_MNIST_digits_classification.ipynb)
+
+
+**Week 3**
+-M:
+    - [L: Convolutional  Neural Networks](./PDFs/ENEL645/lecture07_convolutional_neural_networks.pdf)
+    - [T: Convolutional Neural Networks - Image Classification](./JNotebooks/tutorial10_step_by_step_MNIST_digits_classification_cnn.ipynb)
+
+- F:
+    - [L:Transfer Learning](./PDFs/ENEL645/lecture08_transfer_learning.pdf)
+    - [T: Transfer Learning](./JNotebooks/tutorial11_transfer_learning_imagenet.ipynb) 
+    - T: Garbage classifier - images (cluster)
+
+**Week 4**
+- M:
+    - [L: The U-net model](./PDFs/ENSF619/lecture09_unets.pdf)
+    - T: Medical image segmentation cluster
+
+- F: Paper presentations - TBD
+
 
