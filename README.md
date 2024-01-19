@@ -19,8 +19,8 @@ This repo is constantly being updated. Initially, we used TensorFlow as the deep
 - Reading week 18-24 February | March 29th Good Friday | April 1st Easter Monday
    
 ### Assignments and Final Project Instructions and Rubric
-- [Assignment 01](./Rubric/ENEL645/assignment#01-Garbage-classification-assignment.pdf)
-- [Assignment 02](./Rubric/ENEL645/assignment#02-classification-programming.pdf)
+- [Assignment 01](./Rubric/ENEL645/assignment01-Garbage-classification-assignment.pdf)
+- [Assignment 02](./Rubric/ENEL645/assignment02-classification-programming.pdf)
 - [Final  Project](./Rubric/ENEL645/Final-project-description-rubric-ENEL645.pdf) 
 
 Templates for final project:
