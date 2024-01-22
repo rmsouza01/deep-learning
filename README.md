@@ -56,7 +56,7 @@ Templates for final project:
 **Week 3**
 - M:
    -    [T: Fully Connected NN - Revisited](./JNotebooks/tutorial09_fully_connected_neural_networks_revisited.ipynb)
-   -    [T: Fully Connected NN - PyTorch](./JNotebooks/https://github.com/rmsouza01/deep-learning/blob/master/JNotebooks/fully_connected_NN_mnist_pytorch.ipynb)
+   -    [T: Fully Connected NN - PyTorch](./JNotebooks/fully_connected_NN_mnist_pytorch.ipynb)
 - W: 
     - Weights and Biases (T - Natalia)
 - F: - [L: Data Normalization](./PDFs/ENEL645/lecture06_data_normalization.pdf)
