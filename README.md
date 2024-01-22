@@ -54,14 +54,16 @@ Templates for final project:
 - F: [T: Fully Connected NN: Image Classification](./JNotebooks/tutorial08_step_by_step_MNIST_digits_classification.ipynb)
 
 **Week 3**
-- M: Weights and Biases (T - Natalia)
+- M:
+   -    [T: Fully Connected NN - Revisited](./JNotebooks/tutorial09_fully_connected_neural_networks_revisited.ipynb)
+   -    [T: Fully Connected NN - PyTorch](./JNotebooks/https://github.com/rmsouza01/deep-learning/blob/master/JNotebooks/fully_connected_NN_mnist_pytorch.ipynb)
 - W: 
-    - [L: Data Normalization](./PDFs/ENEL645/lecture06_data_normalization.pdf)
+    - Weights and Biases (T - Natalia)
+- F: - [L: Data Normalization](./PDFs/ENEL645/lecture06_data_normalization.pdf)
     - [L: Convolutional  Neural Networks](./PDFs/ENEL645/lecture07_convolutional_neural_networks.pdf)
-- F: [T: Convolutional Neural Networks - Image Classification](./JNotebooks/tutorial10_step_by_step_MNIST_digits_classification_cnn.ipynb)
 
 **Week 4**
-- M: [T: Fully Connected NN - Revisited](./JNotebooks/tutorial09_fully_connected_neural_networks_revisited.ipynb)
+- M: [T: Convolutional Neural Networks - Image Classification](./JNotebooks/tutorial10_step_by_step_MNIST_digits_classification_cnn.ipynb)
 - W: 
     - [L:Transfer Learning](./PDFs/ENEL645/lecture08_transfer_learning.pdf)
     - [T: Transfer Learning](./JNotebooks/tutorial11_transfer_learning_imagenet.ipynb) 
