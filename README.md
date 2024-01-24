@@ -58,7 +58,7 @@ Templates for final project:
    -    [T: Fully Connected NN - Revisited](./JNotebooks/tutorial09_fully_connected_neural_networks_revisited.ipynb)
    -    [T: Fully Connected NN - PyTorch](./JNotebooks/fully_connected_NN_mnist_pytorch.ipynb)
 - W: 
-    - [T: Weights and Biases](./JNotebooks/JNotebooks/W&B_tutorial.ipynb)
+    - [T: Weights and Biases](./JNotebooks/W&B_tutorial.ipynb)
 - F: - [L: Data Normalization](./PDFs/ENEL645/lecture06_data_normalization.pdf)
     - [L: Convolutional  Neural Networks](./PDFs/ENEL645/lecture07_convolutional_neural_networks.pdf)
 
