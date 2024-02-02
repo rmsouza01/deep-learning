@@ -66,7 +66,8 @@ Templates for final project:
 - M: [T: Convolutional Neural Networks - Image Classification](./JNotebooks/tutorial10_step_by_step_MNIST_digits_classification_cnn.ipynb)
 - W: 
     - [L:Transfer Learning](./PDFs/ENEL645/lecture08_transfer_learning.pdf)
-    - [T: Transfer Learning](./JNotebooks/tutorial11_transfer_learning_imagenet.ipynb) 
+    - [T: Transfer Learning - PyTorch](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
+    - [T: Transfer Learning - TensorFlow](https://keras.io/guides/transfer_learning/)
 - F: Garbage classifier - images (T - cluster)
 
 **Week 5**
