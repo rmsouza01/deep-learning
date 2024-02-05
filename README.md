@@ -71,7 +71,7 @@ Templates for final project:
 - F: Garbage classifier - images (T - cluster)
 
 **Week 5**
-- M: Garbage Classifier - Transfer Learning on Text (T - Natalia)
+- M: [L: Adversarial Models for Data Generation and Domain Adaptation](./PDFs/ENEL645/GANs_DA.pdf)
 - W: The U-net model (L - Natalia)
 - F: U-net Denoising 1D signals (T - Natalia)
 
@@ -189,4 +189,7 @@ Templates for final project:
     - Quiz #01
     - Paper presentations - TBD
 
-
+**Week 5**
+- M: 
+    - He et al, “Deep Residual Learning for Image Recognition”, CVPR 2016. Presenter: Jet Penner.
+    - Tan, M. and Le, Q., 2019, May. Efficientnet: Rethinking model scaling for convolutional neural networks. In International conference on machine learning (pp. 6105-6114). PMLR. Presenter: Yobbahim Javier Israel Perez Vite.
