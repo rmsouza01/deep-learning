@@ -72,11 +72,11 @@ Templates for final project:
 
 **Week 5**
 - M: [L: Adversarial Models for Data Generation and Domain Adaptation](./PDFs/ENEL645/GANs_DA.pdf)
-- W: The U-net model (L - Natalia)
-- F: U-net Denoising 1D signals (T - Natalia)
+- W: [L: U-net Model](./PDFs/ENEL645/lecture09_unets.pdf)
+- F: [T: U-net model for signal denoising](./JNotebooks/denoising-1d-pt-updated.ipynb)
 
 **Week 6**
-- M: Transformers (L - Peyman)
+- M: [Transformers and Attention](./PDFs/ENEL645/Transformers.pdf)
 - W: Transformers (T - Peyman) 
 - F: Self-supervised learning (L - Peyman)
 
