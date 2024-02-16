@@ -76,9 +76,9 @@ Templates for final project:
 - F: [T: U-net model for signal denoising](./JNotebooks/denoising-1d-pt-updated.ipynb)
 
 **Week 6**
-- M: [Transformers and Attention](./PDFs/ENEL645/Transformers.pdf)
-- W: Transformers (T - Peyman) 
-- F: Self-supervised learning (L - Peyman)
+- M: [L:Transformers and Attention](./PDFs/ENEL645/Transformers.pdf)
+- W: T: GPT - The contents are in the GPT folder.
+- F: [L:Self-supervised learning](./PDFs/ENEL645/SSL.pptx)
 
 **Week 7**
 - M: - Reading week
