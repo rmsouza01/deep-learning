@@ -88,7 +88,7 @@ Templates for final project:
 **Week 8**
 - M: Self-supervised learning (T - Peyman)
 - W: - Midterm 
-- F: Domain Adaptation (L) 
+- F:[L: Traditional ML](./JNotebooks/tutorial_traditional_ML.ipynb) 
 
 **Week 9**
 - M: Responsible AI (L - Mahsa)
