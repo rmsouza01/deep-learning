@@ -59,7 +59,8 @@ Templates for final project:
    -    [T: Fully Connected NN - PyTorch](./JNotebooks/fully_connected_NN_mnist_pytorch.ipynb)
 - W: 
     - [T: Weights and Biases](./JNotebooks/W&B_tutorial.ipynb)
-- F: - [L: Data Normalization](./PDFs/ENEL645/lecture06_data_normalization.pdf)
+- F: 
+    - [L: Data Normalization](./PDFs/ENEL645/lecture06_data_normalization.pdf)
     - [L: Convolutional  Neural Networks](./PDFs/ENEL645/lecture07_convolutional_neural_networks.pdf)
 
 **Week 4**
@@ -91,13 +92,13 @@ Templates for final project:
 - F:[L: Traditional ML](./JNotebooks/tutorial_traditional_ML.ipynb) 
 
 **Week 9**
-- M: Responsible AI (L - Mahsa)
+- M: [L: Responsible AI](./PDFs/ENEL645/ENEL645-ResponsibleAI.pdf)
 - W: Midterm (2nd chance)
-- F:  Responsible AI (T - Mahsa)
+- F:  [T: Responsible AI](./JNotebooks/tutorial_bias_mitigation_fairness.ipynb)
 
 **Week 10**
-- M: XAI (L - Mahsa)
-- W: XAI (T - Mahsa)
+- M: [L: Explainable AI](./PDFs/ENEL645/ENEL645-ResponsibleAI.pdf)
+- W: [T: Explainable AI](./JNotebooks/alzheimer_classificiation.ipynb)
 - - F: Physics Informed NNs (L - Natalia)
 
 **Week 11**
