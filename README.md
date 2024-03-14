@@ -99,7 +99,7 @@ Templates for final project:
 **Week 10**
 - M: [L: Explainable AI](./PDFs/ENEL645/ENEL645-ResponsibleAI.pdf)
 - W: [T: Explainable AI](./JNotebooks/alzheimer_classificiation.ipynb)
-- - F: Physics Informed NNs (L - Natalia)
+- F: [L: Physics Informed NNs](./PDFs/ENEL645/lecture16_phsyics_informed_NNs.pdf)
 
 **Week 11**
 - M: Physics Informed NNs (T - Natalia)
