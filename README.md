@@ -188,17 +188,6 @@ Templates for final project:
 
 - F: 
     - Quiz #01
-    - Paper presentations - TBD
 
-**Week 5**
-- M: 
-    - He et al, “Deep Residual Learning for Image Recognition”, CVPR 2016. Presenter: Jet Penner.
-    - Tan, M. and Le, Q., 2019, May. Efficientnet: Rethinking model scaling for convolutional neural networks. In International conference on machine learning (pp. 6105-6114). PMLR. Presenter: Yobbahim Javier Israel Perez Vite.
-- F:
-  - Zhou, K., Yang, Y., Hospedales, T. and Xiang, T., 2020, April. Deep domain-adversarial image generation for domain generalisation. In Proceedings of the AAAI conference on artificial intelligence (Vol. 34, No. 07, pp. 13025-13032). - Saad Bin Ashraf, Md. Afif Al Mamun
-  - Godard, C., Mac Aodha, O., Firman, M. and Brostow, G.J., 2019. Digging into self-supervised monocular depth estimation. In Proceedings of the IEEE/CVF international conference on computer vision (pp. 3828-3838). - Nour Khalefa
-
-**Week 5**
-- M: 
-   - He, K., Gkioxari, G., Dollár, P. and Girshick, R., 2017. Mask r-cnn. In Proceedings of the IEEE international conference on computer vision (pp. 2961-2969). - Zahra Arabi, Mariam Mazoor
-   - Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X., Unterthiner, T., Dehghani, M., Minderer, M., Heigold, G., Gelly, S. and Uszkoreit, J., 2020. An image is worth 16x16 words: Transformers for image recognition at scale. arXiv preprint arXiv:2010.11929. - Wamika Jha and Syed Ali John Naqvi
+**Paper Presentations**
+- [Schedule](https://docs.google.com/spreadsheets/d/1EPtSnnjH7VBbZtqRh-GgRnGPc9Kl4M67TTUXbbk3vWI/edit?usp=sharing)
