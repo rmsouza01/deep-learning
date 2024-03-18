@@ -97,7 +97,7 @@ Templates for final project:
 - F:  [T: Responsible AI](./JNotebooks/tutorial_bias_mitigation_fairness.ipynb)
 
 **Week 10**
-- M: [L: Explainable AI](./PDFs/ENEL645/ENEL645-ResponsibleAI.pdf)
+- M: [L: Explainable AI](./PDFs/ENEL645/ENEL645-XAI.pdf)
 - W: [T: Explainable AI](./JNotebooks/alzheimer_classificiation.ipynb)
 - F: [L: Physics Informed NNs](./PDFs/ENEL645/lecture16_phsyics_informed_NNs.pdf)
 
