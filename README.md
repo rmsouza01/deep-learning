@@ -103,7 +103,7 @@ Templates for final project:
 
 **Week 11**
 - M: [T: Physics Informed NNs](./JNotebooks/heat_eqn_tutorial.ipynb)
-- W: Graph NNs (L - Natalia)
+- W: [L: Graph NNs](./PDFs/ENEL645/lecture17_graph_NNs.pdf)
 - F: Graph NNs (T - Natalia)
 
 **Week 12**
