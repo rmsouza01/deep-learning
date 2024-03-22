@@ -104,7 +104,7 @@ Templates for final project:
 **Week 11**
 - M: [T: Physics Informed NNs](./JNotebooks/heat_eqn_tutorial.ipynb)
 - W: [L: Graph NNs](./PDFs/ENEL645/lecture17_graph_NNs.pdf)
-- F: Graph NNs (T - Natalia)
+- F: [T: Graph NNs](./JNotebooks/gnn_tutorial.ipynb)
 
 **Week 12**
 - M: Traditional ML
