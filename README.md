@@ -107,7 +107,7 @@ Templates for final project:
 - F: [T: Graph NNs](./JNotebooks/gnn_tutorial.ipynb)
 
 **Week 12**
-- M: Traditional ML
+- M: [Garbage Classification Text](./JNotebooks/garbage_classification_text.ipynb)
 - W: (spare class if things need to be shifted)
 - F:Good Friday
 
